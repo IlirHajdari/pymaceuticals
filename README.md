@@ -1,4 +1,5 @@
-# ** Pymaceuticals Analysis**
+# Pymaceuticals Analysis
+The Jupyter Notebook contains some starter code since the initial folder, which includes the .csv data files,  was pulled down from the course GitLab.
 
 ## **Description**
 This project involves analyzing data from a preclinical study conducted by Pymaceuticals, Inc. A pharmaceutical company focused on developing treatments for squamous cell carcinoma (SCC), a common form of skin cancer. The primary objective of this analysis was to assess the effectiveness of Pymaceuticals' drug of interest, **Capomulin**, in comparison to other treatments.
