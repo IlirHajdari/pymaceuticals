@@ -41,8 +41,8 @@ Can be found in the Jupyter Notebook under Analysis
 Can be found in the Jupyter Notebook under Anlaysis
 
 ## **Files**
-- **Jypyter Notebook**: Contains the full analysis, visualizations, and interpretations.
-- **Data Files**: Includes the original datasets ('Mouse_metadat.csv' and 'Study_results.csv').
+-**Jypyter Notebook**: Contains the full analysis, visualizations, and interpretations.
+-**Data Files**: Includes the original datasets ('Mouse_metadat.csv' and 'Study_results.csv').
 
 ## **Technologies Used**
 - Python (Pandas, Matplotlib, SciPy, Other)
